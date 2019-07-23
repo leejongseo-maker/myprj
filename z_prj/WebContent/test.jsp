@@ -7,6 +7,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 </head>
-<body> 2주밖에 안남았어 흑흑흑ㅠㅠ... 
+<body> 2주밖에 안남았어 흑흑흑ㅠㅠ...  
 </body>
 </html>
